@@ -12,3 +12,4 @@ Run:
 ./efilst
 ```
 
+![screenshot](screenshot.png)
